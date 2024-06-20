@@ -8,12 +8,12 @@
 ``/content-hover-on-blur-section``
 
 
-#### JS: set href, sectionId, homepageId
+#### JS
 - [JS ](src/index.js) 
 
-#### Less: set sectionId, homepageId
+#### Less
 - [Styles](src/style.less)
 
-![img_1.png](img_1.png)
 
 
+![img.png](img.png)
